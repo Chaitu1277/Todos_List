@@ -14,5 +14,4 @@ A simple and interactive **To-Do List** application built using **HTML, CSS, and
 
 👉 [Live Demo](https://chaitu1277.github.io/Todos_List/) 
 
-## 📂 Project Structure
 
